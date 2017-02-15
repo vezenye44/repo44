@@ -1,2 +1,0 @@
-print (helloy);
-allert ("ghbdtn");
