@@ -1,2 +1,5 @@
 print (helloy);
 allert ("ghbdtn");
+lert ("ghbdtn")
+lert ("ghbdtn")
+lert ("ghbdtn")
